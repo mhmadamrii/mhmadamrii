@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhmadamrii
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on learning
+- 🌱 I’m currently learning HTML/CSS/JS/C
+- 💞️ I’m looking to collaborate team on learning
 - 📫 How to reach me? by contacting me on ig: @mhmadamrii
 
 <!---
