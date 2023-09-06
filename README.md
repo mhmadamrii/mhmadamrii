@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mhmadamrii
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/CSS/JS/C
-- 💞️ I’m looking to collaborate team on learning
-- 📫 How to reach me? by contacting me on ig: @mhmadamrii
+I spend my whole day to code
 
 <!---
 mhmadamrii/mhmadamrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
