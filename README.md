@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Amri Nurfai</h1>
-<h3 align="center">A passionate software developer from Indonesia</h3>
+<h3 align="center">A passionate software engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmadamrii&label=Profile%20views&color=0e75b6&style=flat" alt="mhmadamrii" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **muhammadamry151@gmail.com**
 
-- ⚡ Fun fact **I think I am an Idiot**
+- ⚡ Fun fact **>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
