@@ -7,7 +7,7 @@
 
 <a href="https://mhmadamrii-portfolio.vercel.app/" target="_blank">My Portfolio</a>
 
-- 🔭 I’m currently working on **PT Zahir Internasional**
+- 🔭 I’m currently working as a **full stack software engineer**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Flutter, NextJS and more**
 
