@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Amri Nurfai</h1>
-<h3 align="center">A passionate software engineer from Indonesia</h3>
+<h3 align="center">Software engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmadamrii&label=Profile%20views&color=0e75b6&style=flat" alt="mhmadamrii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmadamrii" alt="mhmadamrii" /></a> </p>
 
 <a href="https://mhmadamrii-portfolio.vercel.app/" target="_blank">My Portfolio</a>
-
-- 🔭 I’m currently working as a **full stack software engineer**
-
-- 🌱 I’m currently learning **Python, Machine Learning, Flutter, NextJS and more**
-
-- 💬 Ask me about **React, Typescript, Server side rendering etc**
-
-- 📫 How to reach me **muhammadamry151@gmail.com**
-
-- ⚡ Fun fact **>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
