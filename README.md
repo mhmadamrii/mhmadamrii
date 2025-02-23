@@ -10,3 +10,5 @@ Part-time particle physics dreamer, full-time code slinger. I’m fascinated by 
 - **Solidity**: Dipping into the blockchain, because why not?  
 
 Currently smashing bugs, chasing quarks, and pushing pixels. Check out my repos—I’m probably over-engineering something right now.
+
+![mhmadamrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadamrii&show_icons=true&theme=radical)
